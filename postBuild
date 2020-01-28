@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "JupiterFund workspace build successful"

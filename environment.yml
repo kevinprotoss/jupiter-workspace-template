@@ -1,0 +1,7 @@
+name: jupiter-workspace-template
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - protobuf
+  - python-confluent-kafka
